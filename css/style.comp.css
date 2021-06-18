@@ -939,6 +939,7 @@ body {
   margin: 1rem; }
 
 .navigation__link:link, .navigation__link:visited {
+  visibility: hidden;
   display: inline-block;
   font-size: 3rem;
   font-weight: 300;
@@ -964,6 +965,9 @@ body {
 .navigation__checkbox:checked ~ .navigation__nav {
   opacity: 1;
   width: 100%; }
+
+.navigation__checkbox:checked ~ .navigation__nav .navigation__link {
+  visibility: visible; }
 
 .navigation__icon {
   position: relative;
