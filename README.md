@@ -1,6 +1,6 @@
 # Natours-SCSS-practice
 ### Demo: https://ume77betty.github.io/Natours-SCSS-practice/
-### This is practice for Udemy course: [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
+#### This is practice for Udemy course: [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
 ---
 #### **--- About Natours ---**
 This website is mainly for **practicing SCSS and RWD**.
