@@ -19,3 +19,5 @@ Not only CSS animation, but I also gain knowledge about how to write good RWD co
 I can think about the inconvenience of the website from the user’s point of view, and then make improvements.
 <br/>
 This course is really useful and very helpful for me!
+<br/>
+I think it really improved my CSS skill and take me to a new level.
